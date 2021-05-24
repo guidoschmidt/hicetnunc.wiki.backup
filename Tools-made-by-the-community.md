@@ -53,7 +53,7 @@ The following services provide shortlinks to hicetnunc creation pages:
 
 ## Gallery Tools
 
-* [HEN radio](hicetnunc.tools/radio) A simple OBJKT audio player By working group 7.2 with @__orderandchaos , during the first Hicathon. Supports MP3, WAV, and OGG. Can be embedded into any websites.
+* [HEN radio](https://hicetnunc.tools/radio) A simple OBJKT audio player By working group 7.2 with @__orderandchaos , during the first Hicathon. Supports MP3, WAV, and OGG. Can be embedded into any websites.
 
 * [Hicetnunc Collection Generator](https://github.com/tarwin/hicetnunc-collection-generator) by @tarwin generates thumbs and a gallery
 
