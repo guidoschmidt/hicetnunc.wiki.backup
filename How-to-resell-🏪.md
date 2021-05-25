@@ -15,7 +15,7 @@ _IMPORTANT: Once swapping something up for sale, it is sent to the H=N escrow wa
 
 ### How can I track what I've sold?
 
-You can use (HICTORY)[hictory.xyz] by Leith Ben Abdessalem: An easy to read transaction history.
+You can use [HICTORY](hictory.xyz) by Leith Ben Abdessalem: An easy to read transaction history.
 
 ### How can I get notifications when I sell something?
 
