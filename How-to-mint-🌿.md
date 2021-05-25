@@ -25,12 +25,15 @@ Continue to the [How to swap 🔃](https://github.com/hicetnunc2000/hicetnunc/wi
 
 ***
 
-### HELP! I keep getting the `BACKTRACKED` error and I'm using temple wallet! `(transaction likely to fail)`
-You will have to manually set max storage fees (it only charges the storage fee that was really used in the operation)
+### HELP! I keep getting the `BACKTRACKED` error and I'm using temple wallet! (`transaction likely to fail`)
+You will have to manually set max storage fees (it only charges the storage fee that was really used in the operation). 
 
 ```suggested parameters:
 mint - set storage to 310
 swap - set storage to 180
 ```
 ![Storage fee adjustment in template wallet](https://i.ibb.co/7W3FNRR/Screen-Shot-2021-05-24-at-10-33-33-AM.png)
+
+### HELP! I tried to raise the storage fees but I'm still getting the `BACKTRACKED` error!
+If raising storage fees doesn't work, you'll have to switch to using kukai wallet. You don't need to make a new wallet to do this. [Here](https://youtu.be/_9TwCzBBJGU) is a video tutorial on how to import your wallet to Kukai.
 
