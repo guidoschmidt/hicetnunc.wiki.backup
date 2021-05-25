@@ -22,3 +22,15 @@ Continue to the [How to swap 🔃](https://github.com/hicetnunc2000/hicetnunc/wi
 
 **Hint:** _Based on the edition number that you minted, you will see a number of “OBJKTS” in your tezos wallet. These newly minted OBJKTs now belong to you._
 
+
+***
+
+### HELP! I keep getting the `BACKTRACKED` error and I'm using temple wallet!
+You will have to manually set max storage fees (it only charges the storage fee that was really used in the operation)
+
+```suggested parameters:
+mint - set storage to 310
+swap - set storage to 180
+```
+![Storage fee adjustment in template wallet](https://i.ibb.co/7W3FNRR/Screen-Shot-2021-05-24-at-10-33-33-AM.png)
+
