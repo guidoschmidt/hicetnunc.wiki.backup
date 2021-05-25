@@ -9,7 +9,7 @@ We recommend [Kukai wallet](https://wallet.kukai.app/). We've seen issues with A
 ## Where to buy tezos
 Minting on hicetnunc only costs ~0.08 tezos. You can buy some on an exchange site like Binance or Kraken, however we recommend consulting with someone who is from whatever country you are in because exchange services are provided depending on the country.
 
-## The Hicetnunc Tezos Fountain
+## The H=N Tezos Fountain
 ### ⛲ Applying as an Artist
 Are you an artist who needs tez but can't get it? You can request a volunteer from the community to sponsor you in the #tezos-fountain channel on [Discord](https://discord.gg/FwZyeQp5).
 
