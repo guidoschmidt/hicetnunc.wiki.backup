@@ -17,6 +17,6 @@ _IMPORTANT: Once swapping something up for sale, it is sent to the H=N escrow wa
 
 You can use (HICTORY)[hictory.xyz] by Leith Ben Abdessalem: An easy to read transaction history.
 
-### How can I get notifications for when I sell something?
+### How can I get notifications when I sell something?
 
 You can use the [Telegram Notifier Bot](https://tzsnt.fr/) to get a notification everytime something sells.
