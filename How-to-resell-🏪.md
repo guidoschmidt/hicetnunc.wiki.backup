@@ -15,8 +15,8 @@ _IMPORTANT: Once swapping something up for sale, it is sent to the H=N escrow wa
 
 ### How can I track what I've sold?
 
-You can use the (hictory.xyz)[hictory.xyz] community tool made by LeithBA
+You can use (HICTORY)[hictory.xyz] by Leith Ben Abdessalem: An easy to read transaction history.
 
 ### How can I get notifications for when I sell something?
 
-You can use the telegram bot notification.
+You can use the [Telegram Notifier Bot](https://tzsnt.fr/) to get a notification everytime something sells.
