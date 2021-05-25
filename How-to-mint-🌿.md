@@ -25,7 +25,7 @@ Continue to the [How to swap 🔃](https://github.com/hicetnunc2000/hicetnunc/wi
 
 ***
 
-### HELP! I keep getting the `BACKTRACKED` error and I'm using temple wallet! (`transaction likely to fail`)
+### HELP! I keep getting the `BACKTRACKED` error and I'm using temple wallet! `(transaction likely to fail)`
 You will have to manually set max storage fees (it only charges the storage fee that was really used in the operation)
 
 ```suggested parameters:
