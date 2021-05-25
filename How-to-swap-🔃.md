@@ -20,5 +20,13 @@ Proceed to [How to cancel ❌](https://github.com/hicetnunc2000/hicetnunc/wiki/H
 ### Help, my wallet is giving me an `insufficient funds available` error!
 You might be trying to swap more editions than you minted, or your object is still for sale and you need to cancel it first.
 
+### How can I track what I've sold?
+
+You can use (HICTORY)[hictory.xyz] by Leith Ben Abdessalem: An easy to read transaction history.
+
+### How can I get notifications for when I sell something?
+
+You can use the [Telegram Notifier Bot](https://tzsnt.fr/) to get a notification everytime something sells.
+
 
 ***
