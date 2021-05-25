@@ -20,6 +20,10 @@ You can use (HICTORY)[hictory.xyz] by Leith Ben Abdessalem: An easy to read tran
 
 You can use the [Telegram Notifier Bot](https://tzsnt.fr/) to get a notification everytime something sells.
 
+
+***
+
+
 **Important:** _When you are swapping, you are sending an amount of OBJKTs of your edition out of your wallet. They're being held in a Hic et Nunc escrow wallet ready to be transferred to the buyer, which is why they're no longer visible in your wallet. Once the blockchain transaction is finished, the price should be set on the OBJKT and available for purchase, and your wallet should say that you sent that amount of OBJKTs._
 
 Proceed to [How to cancel ❌](https://github.com/hicetnunc2000/hicetnunc/wiki/How-to-cancel-❌) to learn how to take your OBJKT off the market or change the price.
