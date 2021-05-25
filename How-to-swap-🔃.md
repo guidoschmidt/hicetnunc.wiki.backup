@@ -38,7 +38,7 @@ You might be trying to swap more editions than you minted, or your object is sti
 
 ***
 
-### HELP! I keep getting the `BACKTRACKED` error and I'm using temple wallet!
+### HELP! I keep getting the `BACKTRACKED` error and I'm using temple wallet! (`transaction likely to fail`)
 You will have to manually set max storage fees (it only charges the storage fee that was really used in the operation). 
 
 ```suggested parameters:
