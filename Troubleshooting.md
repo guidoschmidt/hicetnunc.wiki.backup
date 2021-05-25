@@ -20,8 +20,7 @@ The error _"Storage quota exceeded for the operation. A script or one of its cal
 
 The action you were trying to do will not have been completed, and you can retry it safely. Some wallets may have offered you the opportunity to increase the amount of storage fees, and increasing by, say, 3% usually results in a successful transaction.
 
-It's worth noting that all transaction attempts, including failed ones, do incur small blockchain network fees which are not recoverable.
-
+**It's worth noting that all transaction attempts, including failed ones, do incur small blockchain network fees which are not recoverable.**
 
 ### I got "FA_2 insufficient balance" error when swapping - what happened?
 
