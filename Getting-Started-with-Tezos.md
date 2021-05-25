@@ -18,7 +18,7 @@ Please fill out this google form:
 * After filling out the form, please send us a message in the #tezos-fountain channel on the Discord saying that you filled out the form.
 
 ### ⛲ Volunteering as a Sponsor
-If you make some sales and would like to support other new artists you can send XTZ donations to `tz1eggoxCes1qYRGLc3E1bg4uzuCUUuuQBb9`
+If you make some sales and would like to support other new artists you can send XTZ donations to `tz1eggoxCes1qYRGLc3E1bg4uzuCUUuuQBb9` or `fountain.tez`
 
 **Common wallet errors**
 ![account doesnt exist error from tzkt.io](https://imgshare.io/images/2021/05/15/account_doesnt_exist.png)
