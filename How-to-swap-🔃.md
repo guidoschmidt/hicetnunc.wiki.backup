@@ -12,6 +12,10 @@
 4. Input how much each edition number should cost in Tezos
 5. Hit the [swap] button. Approve in your wallet.
 
+
+***
+
+
 ### How can I track what I've sold?
 
 You can use (HICTORY)[hictory.xyz] by Leith Ben Abdessalem: An easy to read transaction history.
