@@ -26,5 +26,13 @@ The action you were trying to do will not have been completed, and you can retry
 
 The usual cause for this is trying to swap more items that were minted. If you minted 10 items and try to swap 20, you'll receive this error.
 
-### My transaction is being "backtracked" - whats going on?
-You're getting backtracked. Raise the storage fee to max and try again. With the current load it is taking 4-5 tries.
+### HELP! I keep getting the `BACKTRACKED` error and I'm using temple wallet!
+You will have to manually set max storage fees (it only charges the storage fee that was really used in the operation)
+
+```suggested parameters:
+mint - set storage to 310
+swap - set storage to 180
+```
+![Storage fee adjustment in template wallet](https://i.ibb.co/7W3FNRR/Screen-Shot-2021-05-24-at-10-33-33-AM.png)
+
+
