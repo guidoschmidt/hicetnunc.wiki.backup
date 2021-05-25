@@ -39,7 +39,7 @@ You might be trying to swap more editions than you minted, or your object is sti
 ***
 
 ### HELP! I keep getting the `BACKTRACKED` error and I'm using temple wallet!
-You will have to manually set max storage fees (it only charges the storage fee that was really used in the operation)
+You will have to manually set max storage fees (it only charges the storage fee that was really used in the operation). If this doesn't work, you'll have to switch to using kukai wallet. You don't need to make a new wallet to do this. Here is a video tutorial: [https://youtu.be/_9TwCzBBJGU](Youtube: Hic Et Nunc - Swaps FAILING? 100% EASY FIX)
 
 ```suggested parameters:
 mint - set storage to 310
