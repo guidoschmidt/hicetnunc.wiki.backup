@@ -37,3 +37,13 @@ Proceed to [How to cancel ❌](https://github.com/hicetnunc2000/hicetnunc/wiki/H
 You might be trying to swap more editions than you minted, or your object is still for sale and you need to cancel it first.
 
 ***
+
+### HELP! I keep getting the `BACKTRACKED` error and I'm using temple wallet!
+You will have to manually set max storage fees (it only charges the storage fee that was really used in the operation)
+
+```suggested parameters:
+mint - set storage to 310
+swap - set storage to 180
+```
+![Storage fee adjustment in template wallet](https://i.ibb.co/7W3FNRR/Screen-Shot-2021-05-24-at-10-33-33-AM.png)
+
