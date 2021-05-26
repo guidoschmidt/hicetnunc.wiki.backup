@@ -30,7 +30,7 @@ Unfortunately, there are people minting NFTs who did not create what they upload
 To make it easier for buyers, please leave a trace to any social profile or website in the description of your artwork, so potential buyers can validate the authenticity. If you can link the NFTs the artist is advertising on the profile with the NFTs on Hicetnunc, you can assume it is legit.
 
 ## I want to report a copyminter
-The fastest way to report a copyminter in our [discord](https://discord.gg/9qkgRsqa) in the #report-abuse channel.
+The fastest way to report a copyminter in our [discord](https://discord.gg/Yx6UN5SkCd) in the #report-copyminters channel.
 
 ## How can I promote my NFT or my NFT exhibition?
 Our discord has the following promotion channels:
