@@ -27,7 +27,9 @@ The action you were trying to do will not have been completed, and you can retry
 The usual cause for this is trying to swap more items that were minted. If you minted 10 items and try to swap 20, you'll receive this error.
 
 ### HELP! I keep getting the `BACKTRACKED` error and I'm using temple wallet! 
+
 also can be seen as `transaction likely to fail`
+
 You will have to manually set max storage fees (it only charges the storage fee that was really used in the operation). 
 
 ```suggested parameters:
