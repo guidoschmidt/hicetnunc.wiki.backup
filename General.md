@@ -21,9 +21,6 @@ You need to have registered/updated a profile and/or hold some hDAO tokens to be
 You may acquire hDAO through tips (withdrawal coming soon!) or by purchasing it via swap markets like [Quipuswap](https://quipuswap.com/swap).
 This was implemented to combat copyminters and shouldn't affect regular users.
 
-## What is this 2.5% fee?
-The fee means that when your OBJKT sells, Hicetnunc will charge 2.5% of the sale. It is used to maintain the server. We suggest factoring this into your sell price to cover the costs.
-
 ## How to avoid copyminters
 Unfortunately, there are people minting NFTs who did not create what they upload. These copyminters, as we call them, try to make a quick buck with art from other people. Collectors have to very careful and try to find out who the artists are and if the art is genuine.
 
