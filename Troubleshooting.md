@@ -35,8 +35,9 @@ You will have to manually set max storage fees (it only charges the storage fee 
 ```suggested parameters:
 mint - set storage to 310
 swap - set storage to 180
-_* if these parameters fail, try going even higher_
 ```
+_if these parameters fail, try going even higher_
+
 ![Storage fee adjustment in template wallet](https://i.ibb.co/7W3FNRR/Screen-Shot-2021-05-24-at-10-33-33-AM.png)
 
 ### HELP! I tried to raise the storage fees but I'm still getting the `BACKTRACKED` error!
