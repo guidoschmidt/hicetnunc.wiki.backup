@@ -28,7 +28,7 @@ The usual cause for this is trying to swap more items that were minted. If you m
 
 ### HELP! I keep getting the `BACKTRACKED` error and I'm using temple wallet! 
 
-also can be seen as `transaction likely to fail`
+_also can be seen as `transaction likely to fail`_
 
 You will have to manually set max storage fees (it only charges the storage fee that was really used in the operation). 
 
