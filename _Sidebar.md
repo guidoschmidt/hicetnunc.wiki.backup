@@ -15,6 +15,7 @@
 **FAQs**
 
 * [General](https://github.com/hicetnunc2000/hicetnunc/wiki/General)
+* [Maintenance Fees](https://github.com/hicetnunc2000/hicetnunc/wiki/Maintenance-fees)
 * [Troubleshooting](https://github.com/hicetnunc2000/hicetnunc/wiki/Troubleshooting)
 * [Features Not Yet Implemented](https://github.com/hicetnunc2000/hicetnunc/wiki/Features-not-yet-implemented)
 * [hDAO ○](https://github.com/hicetnunc2000/hicetnunc/wiki/hDAO)
