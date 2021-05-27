@@ -78,4 +78,4 @@ This can be combined with Hic et Nunc API CDK to fetch and generate thumbs from 
 
 * [Collection grouping tool (OBJKT #59369)](https://www.hicetnunc.xyz/objkt/59369) by [@jagracar](https://twitter.com/jagracar). Groups your collection after artists and highlights copyminted OBJKTs in your (or any) collection
 
-* [hicdex](https://hicdex.com/) a blockchain indexer and GraphQL API for hic et nunc
+* [hicdex](https://hicdex.com/) a blockchain indexer and GraphQL API for hic et nunc by [@marchingsquare](https://twitter.com/marchingsquare)
