@@ -20,6 +20,7 @@
 
 * [HEN User Discovery Tool](https://karengin.com/hen/#tz1ZuRLk8zSwHB9T9FzDQqsiryXprLrH5xF2) by [Art Alternator](https://twitter.com/aalternator) 
 
+
 ## IPFS Pinning
 
 * [Hicetnunc IPFS Pinning](https://gist.github.com/mattdesl/47f4ea12ea131eed8401bdacf95a1f47) by Matt DesLauriers
@@ -76,3 +77,5 @@ This can be combined with Hic et Nunc API CDK to fetch and generate thumbs from 
 * [TZComet Token Viewer](https://tzcomet.io/#/token/KT1RJ6PbjHpwc3M5rw5s2Nbmefwbuwbdxton/6291%3Falways-show-multimedia%3Dtrue) a tool to view all metadata and media data of OBJKTs (even banned ones). Simply paste the OBJKTs ID on top right and press Go.
 
 * [Collection grouping tool (OBJKT #59369)](https://www.hicetnunc.xyz/objkt/59369) by [@jagracar](https://twitter.com/jagracar). Groups your collection after artists and highlights copyminted OBJKTs in your (or any) collection
+
+* [hicdex](https://hicdex.com/) a blockchain indexer and GraphQL API for hic et nunc
