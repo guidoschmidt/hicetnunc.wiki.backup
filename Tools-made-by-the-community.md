@@ -24,6 +24,9 @@
 * https://nftbiker.xyz/follow
 * https://hennycomb.glitch.me/
 
+## Giveaway Tools
+* https://dono.xtz.tools/
+
 ## IPFS Pinning
 
 * [Hicetnunc IPFS Pinning](https://gist.github.com/mattdesl/47f4ea12ea131eed8401bdacf95a1f47) by Matt DesLauriers
