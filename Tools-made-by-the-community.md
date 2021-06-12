@@ -55,6 +55,8 @@ The following services provide shortlinks to hicetnunc creation pages:
 
 * [HICTORY](https://hictory.glitch.me/#tz2HwP1JKEjEy4H8RxPMkoHWuSzUWZsRSC3R) by [Leith Ben Abdessalem](https://twitter.com/LeithBA): An easy to read transaction history.
 
+* https://ufffd.com/hicettum/swaps
+
 ## Gallery Tools
 
 * [HEN radio](https://hicetnunc.tools/radio) A simple OBJKT audio player By working group 7.2 with @__orderandchaos , during the first Hicathon. Supports MP3, WAV, and OGG. Can be embedded into any websites.
