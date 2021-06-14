@@ -71,6 +71,7 @@ Interactive OBJKTS can access the following external domains:
 | https://api.openweathermap.org/ | | | | | ✅ |
 | https://hicetnunc.xyz/ | | | | | ✅ |
 | https://*.hicetnunc.xyz/ | | | | | ✅ |
+| https://api.hicdex.com/ 
 
 ## User Data
 
