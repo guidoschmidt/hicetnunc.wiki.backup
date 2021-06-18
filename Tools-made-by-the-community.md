@@ -1,5 +1,7 @@
 ## Discovery Tools
 
+* [HEO Catalog](https://heo.zmnv.art/) A cataglog of all .GLB objkts minted on HEN
+
 * [hicetnunc.tools](https://hicetnunc.tools) An unofficial list of community hicetnunc projects
 
 * https://hicdex.com/
