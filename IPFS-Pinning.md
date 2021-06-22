@@ -34,4 +34,4 @@ To run your own node, you can use the following Tools:
 * https://thedefiant.io/do-you-really-own-your-nft-chances-are-you-dont/
 * https://docs.ipfs.io/how-to/pin-files/
 * https://filecoin.io/blog/posts/ipfs-filecoin-and-content-persistence/
-* https://docs.ipfs.io/concepts/content-addressing/#identifier-formats
+* https://docs.ipfs.io/concepts/content-addressing
