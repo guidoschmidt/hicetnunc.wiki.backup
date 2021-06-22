@@ -1,4 +1,4 @@
-Your OBJKTs are uploaded to The Interplanetary File System, or [IPFS](https://www.ipfs.com/). The tezos contract stores the IPFS hash and a reference to IPFS metadata with information like title and description (example).
+Your OBJKTs are uploaded to The Interplanetary File System, or [IPFS](https://www.ipfs.com/). The tezos contract stores the IPFS hash and a reference to IPFS metadata with information like title and description [example](https://ipfs.io/ipfs/QmbUHQWw1pQ7GwPxgDtAUdRKaJPQjsymKviZCcNEjMj1oM).
 
 ## What is IPFS and why is IPFS pinning important?
 "_The Interplanetary File System, or [IPFS](https://www.ipfs.com/), is a distributed storage network made up of “nodes” or computers all over the world where people and apps are storing and sharing data. When an IPFS node retrieves data from the network it keeps a local cache of that data for future usage, taking up space on that particular IPFS node. IPFS nodes frequently clear this cache out in order to make room for new content..._" —[source](https://medium.com/pinata/what-is-an-ipfs-pinning-service-f6ed4cd7e475)
