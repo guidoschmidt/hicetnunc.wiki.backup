@@ -31,3 +31,4 @@ To run your own node, you can use the following Tools:
 * https://medium.com/pinata/what-is-an-ipfs-pinning-service-f6ed4cd7e475
 * https://thedefiant.io/do-you-really-own-your-nft-chances-are-you-dont/
 * https://docs.ipfs.io/how-to/pin-files/
+* https://filecoin.io/blog/posts/ipfs-filecoin-and-content-persistence/
