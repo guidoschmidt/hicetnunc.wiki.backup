@@ -19,7 +19,7 @@ This is a personal decision. Since H=N pins content for you, you could say that 
 
 ***
 
-To run your own node, you can use the following Tools:
+To run your own node, you can use the following Tools/Guides:
 
 ## IPFS Pinning
 
