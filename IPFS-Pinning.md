@@ -15,7 +15,7 @@ Metadata & OBJKT files are uploaded & pinned in Infura [(see github code here)](
 
 This is a personal decision. Since H=N pins content for you, you could say that it is safe, but some people would prefer to be in control of their data. For the very long-term, it is important to understand that you are responsible for the artwork as an artist and collector. It is also important to keep in mind the idea of "content persistence". You can read a good article regarding content persistence [here](IPFS ensures that content cannot change over time without a clear record and solves the issue of URLs not resolving.).
 
-"When you “pin” data on an IPFS node, you are telling that node that the data is important and it should be saved. Pinning prevents important data from being deleted from your node when the clearing process happens. However, you can only control and pin data on your node(s). You can not force other nodes on the IPFS network to pin your content for you. So, to guarantee your content stays pinned, you have to run your own IPFS nodes." —[source](https://medium.com/pinata/what-is-an-ipfs-pinning-service-f6ed4cd7e475)
+"When you “pin” data on an IPFS node, you are telling that node that the data is important and it should be saved. Pinning prevents important data from being deleted from your node when the clearing process happens. However, you can only control and pin data on your node(s). You can not force other nodes on the IPFS network to pin your content for you. So, to guarantee your content stays pinned, you have to run your own IPFS nodes." — [source](https://medium.com/pinata/what-is-an-ipfs-pinning-service-f6ed4cd7e475)
 
 ***
 
