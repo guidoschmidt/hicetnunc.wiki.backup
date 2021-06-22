@@ -1,11 +1,11 @@
 ## What is IPFS?
 Your OBJKTs are uploaded by H=N "off-chain" to The Interplanetary File System, or IPFS. The Tezos contract stores the references to the IPFS hash of the art and to other metadata like title and description.
 
-"The Interplanetary File System, or IPFS, is a distributed storage network made up of “nodes” or computers all over the world where people and apps are storing and sharing data. When an IPFS node retrieves data from the network it keeps a local cache of that data for future usage, taking up space on that particular IPFS node. IPFS nodes frequently clear this cache out in order to make room for new content..." —[source](https://medium.com/pinata/what-is-an-ipfs-pinning-service-f6ed4cd7e475)
+"_The Interplanetary File System, or IPFS, is a distributed storage network made up of “nodes” or computers all over the world where people and apps are storing and sharing data. When an IPFS node retrieves data from the network it keeps a local cache of that data for future usage, taking up space on that particular IPFS node. IPFS nodes frequently clear this cache out in order to make room for new content..._" —[source](https://medium.com/pinata/what-is-an-ipfs-pinning-service-f6ed4cd7e475)
 
 ## Why does data on IPFS need to be pinned?
 
-According to IPFS, "IPFS has a fairly aggressive caching mechanism that will keep an object local for a short time after you perform any IPFS operation on it, but these objects may get garbage-collected regularly. To prevent that garbage collection, simply pin the CID you care about". —[source](https://docs.ipfs.io/how-to/pin-files/)
+According to IPFS, "_IPFS has a fairly aggressive caching mechanism that will keep an object local for a short time after you perform any IPFS operation on it, but these objects may get garbage-collected regularly. To prevent that garbage collection, simply pin the CID you care about_". —[source](https://docs.ipfs.io/how-to/pin-files/)
 
 ## Does H=N pin my OBJKTs for me?
 
