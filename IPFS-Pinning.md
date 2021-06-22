@@ -9,7 +9,7 @@ According to IPFS, "_IPFS has a fairly aggressive caching mechanism that will ke
 
 ## Does H=N pin my OBJKTs for me?
 
-Metadata & OBJKT files are uploaded & pinned in Infura [see github code here](https://github.com/hicetnunc2000/hicetnunc/blob/main/src/data/ipfs.js#L12), and then they're downloaded from ipfs.io, cloudflare or pinata public gateways [see github code here](https://github.com/hicetnunc2000/hicetnunc/blob/main/src/pages/objkt-display/tabs/info.js#L11).
+Metadata & OBJKT files are uploaded & pinned in Infura [(see github code here)](https://github.com/hicetnunc2000/hicetnunc/blob/main/src/data/ipfs.js#L12), and then they're downloaded from ipfs.io, cloudflare or pinata public gateways [(see github code here)](https://github.com/hicetnunc2000/hicetnunc/blob/main/src/pages/objkt-display/tabs/info.js#L11).
 
 ## Do I need to pin my own OBJKTs?
 
