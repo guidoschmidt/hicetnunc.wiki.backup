@@ -29,7 +29,7 @@ To run your own node, you can use the following Tools:
 * [Running IPFS node to pin content](https://twitter.com/antic/status/1374417104489697283?s=20) by Adam Eivy
 * [Pinata Pinning Tool](https://www.youtube.com/watch?v=FFNF0RX2O_k) (_Good for non-tech savvy people_)
 
-### Sources
+### Further Reading
 * https://medium.com/pinata/what-is-an-ipfs-pinning-service-f6ed4cd7e475
 * https://thedefiant.io/do-you-really-own-your-nft-chances-are-you-dont/
 * https://docs.ipfs.io/how-to/pin-files/
