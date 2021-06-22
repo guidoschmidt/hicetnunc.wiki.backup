@@ -1,6 +1,6 @@
-## What is IPFS?
 Your OBJKTs are uploaded by H=N "off-chain" to The Interplanetary File System, or IPFS. The Tezos contract stores the references to the IPFS hash of the art and to other metadata like title and description.
 
+## What is IPFS and why is IPFS pinning important?
 "_The Interplanetary File System, or IPFS, is a distributed storage network made up of “nodes” or computers all over the world where people and apps are storing and sharing data. When an IPFS node retrieves data from the network it keeps a local cache of that data for future usage, taking up space on that particular IPFS node. IPFS nodes frequently clear this cache out in order to make room for new content..._" —[source](https://medium.com/pinata/what-is-an-ipfs-pinning-service-f6ed4cd7e475)
 
 ## Why does data on IPFS need to be pinned?
