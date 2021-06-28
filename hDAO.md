@@ -16,10 +16,6 @@ _*as of the 15th of May_
 
 **implementation ongoing**
 
-![hDAO overview by Leonard Schoelch](https://i.ibb.co/LRwNDKh/E0-IYE-1-XEAAdhv-S.jpg)
-
-_hDAO overview by Leonard Schoelch_
-
 ### hDAO FACTS:
 * Tezos FA2 Token
 * 651k total supply
