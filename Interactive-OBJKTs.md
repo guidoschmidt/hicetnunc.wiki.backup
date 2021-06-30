@@ -71,8 +71,8 @@ Interactive OBJKTS can access the following external domains:
 | https://api.openweathermap.org/ | | | | | ✅ |
 | https://hicetnunc.xyz/ | | | | | ✅ |
 | https://*.hicetnunc.xyz/ | | | | | ✅ |
-| https://api.hicdex.com/ 
-
+| https://api.hicdex.com/ | | | | | ✅ |
+| services.tzkt.io |✅ | | | |  |
 ## User Data
 
 Your project will be displayed within a sandboxed iframe, meaning it won't have access to any user data from the [hicetnunc.xyz](http://hicetnunc.xyz) site. However, the viewer and creator addresses are passed into the iframe via URL query parameters:
