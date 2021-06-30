@@ -1,6 +1,9 @@
 ## I want to create my own gallery. How do I do it?
 This is currently being developed. We are not taking any pull requests at the moment to have a gallery featured but you will be able to make your own soon.
 
+## What video formats/codecs are supported?
+We recommend mp4, although you can mint webm, mov, and ogv. H.265 codec is not supported, we recommend H.264.
+
 ## How do I get a notification when something sells?
 You can use the telegram bot that we have listed in the [Tools](https://github.com/hicetnunc2000/hicetnunc/wiki/Tools-made-by-the-community) section
 
