@@ -66,6 +66,8 @@ The following services provide shortlinks to hicetnunc creation pages:
 
 * https://batch.xtz.tools/
 
+* https://hicdex.com/my-secondary-market-sales
+
 ## Gallery Tools
 
 * [HEN radio](https://hicetnunc.tools/radio) A simple OBJKT audio player By working group 7.2 with @__orderandchaos , during the first Hicathon. Supports MP3, WAV, and OGG. Can be embedded into any websites.
