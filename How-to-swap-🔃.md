@@ -18,7 +18,7 @@
 
 ### How can I track what I've sold?
 
-You can use [hicdex](https://hicdex.com/sold)
+You can use [hicdex](https://hicdex.com)
 
 ### How can I get notifications for when I sell something?
 
