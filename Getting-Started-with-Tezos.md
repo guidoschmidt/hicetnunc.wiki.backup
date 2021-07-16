@@ -11,7 +11,7 @@ Minting on hicetnunc only costs ~0.08 tezos. You can buy some on an exchange sit
 
 ## The H=N Tezos Fountain
 ### ⛲ Applying as an Artist
-Are you an artist who needs tez but can't get it? You can request a volunteer from the community to sponsor you in the #tezos-fountain channel on [Discord](https://discord.gg/FwZyeQp5).
+Are you an artist who needs tez but can't get it? You can request a volunteer from the community to sponsor you in the #tezos-fountain channel on [Discord](https://discord.gg/EDrSbMzBeC).
 
 Please fill out this google form:
 * https://forms.gle/9NnshQ92tjs4JPw46
