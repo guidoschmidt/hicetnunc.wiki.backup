@@ -15,7 +15,7 @@ _IMPORTANT: Once swapping something up for sale, it is sent to the H=N escrow wa
 
 ### How can I track what I've sold?
 
-You can use the tools on hicdex.com to track transaction history
+You can use the tools on [hicdex.com](hicdex.com) to track transaction history
 
 ### How can I get notifications when I sell something?
 
