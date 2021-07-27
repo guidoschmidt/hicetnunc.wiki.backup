@@ -28,6 +28,3 @@
 * [Tools Made By the Community](https://github.com/hicetnunc2000/hicetnunc/wiki/Tools-made-by-the-community)
 * [Essays & Blog posts](https://github.com/hicetnunc2000/hicetnunc/wiki/Essays-blogs)
 * [IPFS Pinning](https://github.com/hicetnunc2000/hicetnunc/wiki/IPFS-pinning)
-
-**Languages**
-* [Português](https://github.com/hicetnunc2000/hicetnunc/wiki/pt:Home)
