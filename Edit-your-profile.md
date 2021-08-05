@@ -10,7 +10,7 @@ To edit your profile use the **Settings** option in the menu or go to: https://w
 ## Tezos Profiles (optional)
 Tezos Profiles (https://tzprofiles.com/) is a web application where users can associate their public online identity based on social media profiles and self-attested information to their Tezos address. This is an extra layer of verification and it's not required to complete your profile information, it will only add icons confirming you control your twitter account and wallet address.
 
-IMPORTANT: Tezos Profiles transaction costs 0.3 tez, so avoid doing this if you are a fountain reciever (you only have 0.5 tez) or are low on funds
+**IMPORTANT:** _Tezos Profiles transaction costs 0.3 tez, so avoid doing this if you are a fountain reciever (you only have 0.5 tez) or are low on funds_
 
 If tzprofiles seems too complicated you can type your social media handles on your profile description and your profile link (hicetnunc.xyz/yourusername) on your social media, this is a simple way to validate your identity
 
