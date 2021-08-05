@@ -2,7 +2,7 @@
 
 To edit your profile use the **Settings** option in the menu or go to: https://www.hicetnunc.xyz/config
 
-**IMPORTANT** _When configuring your username, please don't use any special characters or spaces for the username_
+**IMPORTANT** _When configuring your username, please don't use any special characters or spaces for the username. Its also case-sensitive, so we recommend ALL LOWERCASE_
 
 ![](https://i.ibb.co/bLZq7kk/1.png)
 
@@ -12,7 +12,7 @@ Tezos Profiles (https://tzprofiles.com/) is a web application where users can as
 
 **IMPORTANT:** _Tezos Profiles transaction costs 0.3 tez, so avoid doing this if you are a fountain reciever (you only have 0.5 tez) or are low on funds_
 
-If tzprofiles seems too complicated you can type your social media handles on your profile description and your profile link (hicetnunc.xyz/yourusername) on your social media, this is a simple way to validate your identity
+If tzprofiles seems too complicated, you can type your social media handles on your profile description and your profile link (hicetnunc.xyz/yourusername) on your social media. This is a simple way to validate your identity
 
 
 ![](https://i.ibb.co/kyCv6ZT/2.png)
