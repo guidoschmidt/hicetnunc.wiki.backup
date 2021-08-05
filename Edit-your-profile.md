@@ -1,6 +1,7 @@
 ## Settings > Config
 
-To edit your profile use the **Settings** option in the menu or go to https://www.hicetnunc.xyz/config
+To edit your profile use the **Settings** option in the menu or go to: https://www.hicetnunc.xyz/config
+
 **IMPORTANT** When configuring your username, please don't use any special characters or spaces for the username
 
 ![](https://i.ibb.co/bLZq7kk/1.png)
