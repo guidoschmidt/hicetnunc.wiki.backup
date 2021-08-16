@@ -24,9 +24,10 @@
 
 * [HEN User Discovery Tool](https://karengin.com/hen/#tz1ZuRLk8zSwHB9T9FzDQqsiryXprLrH5xF2) by [Art Alternator](https://twitter.com/aalternator) 
 
-## Follow Favorite Artists
+## Follow / Favorites
 * https://nftbiker.xyz/follow
 * https://hennycomb.glitch.me/
+* https://hic.af/
 
 ## Giveaway Tools
 * https://dono.xtz.tools/
