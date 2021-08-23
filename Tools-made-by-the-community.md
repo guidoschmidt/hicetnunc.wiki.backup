@@ -71,6 +71,8 @@ The following services provide shortlinks to hicetnunc creation pages:
 
 ## Gallery Tools
 
+* [A hic et nunc gallery tool, made by Andreas Rau] https://hexpo.andreasrau.eu/
+
 * [HEN radio](https://hicetnunc.tools/radio) A simple OBJKT audio player By working group 7.2 with @__orderandchaos , during the first Hicathon. Supports MP3, WAV, and OGG. Can be embedded into any websites.
 
 * [Hicetnunc Collection Generator](https://github.com/tarwin/hicetnunc-collection-generator) by @tarwin generates thumbs and a gallery
