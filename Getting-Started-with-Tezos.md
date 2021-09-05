@@ -7,7 +7,7 @@ Tezos (XTZ) is a liquid proof-of-stake cryptocurrency (LPoS). You can read more 
 Some wallets compatible to our dApp are [Temple wallet](https://templewallet.com/) which is a browser extension similar to Metamask, also being able to connect to Ledger devices. [Kukai wallet](https://wallet.kukai.app/), which is a browser wallet, being possible to connect making use of Direct Auth using twitter credentials. 
 
 ## Where to buy tezos
-Minting on hicetnunc only costs ~0.08 tezos. You can buy some on an exchange site like Binance or Kraken, however we recommend consulting with someone who is from whatever country you are in because exchange services are provided depending on the country.
+Minting on hicetnunc only costs ~0.05 tezos. You can buy some on an exchange site like Binance or Kraken, however we recommend consulting with someone who is from whatever country you are in because exchange services are provided depending on the country.
 
 ## The H=N Tezos Fountain
 ### ⛲ Applying as an Artist
