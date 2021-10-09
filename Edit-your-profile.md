@@ -46,3 +46,5 @@ If tzprofiles seems too complicated, you can type your social media handles on y
 
 - You will now go through the process of deploying your Tezos Profile which consists of signing operations (no-cost, uploading your credentials) and deploying your Tezos Profiles smart contract.
 - After this is complete, your Tezos Profile is now available and can be used by applications and services like Hic et Nunc!
+
+You can ask for help troubleshooting this process in the verification channel in our [Discord](https://discord.gg/XWCPjXUYeN).
