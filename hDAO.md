@@ -51,6 +51,7 @@ Visit the [hDAO feed](https://hicetnunc.xyz/hdao).
 ```OBJKT KT1RJ6PbjHpwc3M5rw5s2Nbmefwbuwbdxton
 hDAO KT1AFA2mwNUMNd4SsujE1YYp29vd8BZejyKW
 Curations KT1TybhR7XraG75JFYKSrh7KnxukMBT5dor6 (hDAO-NFT wallet)
-OBJKT Swap/Mintery KT1Hkg5qeNhfwpKW4fXvq7HGZB9z2EnmCCA9
+OBJKT Mintery KT1Hkg5qeNhfwpKW4fXvq7HGZB9z2EnmCCA9
+OBJKT Swap v2 KT1HbQepzV1nVGg8QVznG7z4RcHseD5kwqBn
 OBJKTs KT1RJ6PbjHpwc3M5rw5s2Nbmefwbuwbdxton
 ```
