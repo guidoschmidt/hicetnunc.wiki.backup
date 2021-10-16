@@ -37,7 +37,7 @@ Here's the original [proposal](https://hicetnunc2000.medium.com/hicetnunc-microf
 ## What are those little circles on each post? hDAO? What is that?
 hDAO is a token that can be used to promote NFTs, and there is an hDAO feed on Hic et Nunc which orders NFTs with the most "upvotes" (hDAO balances). The current wallet hDAO balance is shown on each Hic et Nunc profile page in millionths of hDAO, so 0.5 hDAO will show up as 500000. And it is displayed in your wallet as 0.5 hDAO.
 
-When you click on the circle next to an artwork, this upvotes the NFT. You are sending a dynamically priced amount of hDAO tokens to the hic et Nunc [HDAO-NFT wallet](https://tzkt.io/KT1TybhR7XraG75JFYKSrh7KnxukMBT5dor6/tokens), and the balance of hDAOs listed on the NFT is increased by this amount. The amount is preset at roughly the equivalent of $0.1 USD.
+When you click on the circle next to an artwork, this upvotes the NFT. You are sending a dynamically priced amount of hDAO tokens to the hic et Nunc [hDAO-NFT wallet](https://tzkt.io/KT1TybhR7XraG75JFYKSrh7KnxukMBT5dor6/tokens), and the balance of hDAOs listed on the NFT is increased by this amount. The amount is preset at roughly the equivalent of $0.1 USD.
 This operation incurs a small blockchain transaction cost of around 0.011ꜩ (sometimes known as a "gas" fee).
 
 The creator of the NFT can choose to withdraw the hDAOs from their wallet, keep it, or use it to vote on other artworks. As the creator withdraws or spends the hDAOs, the balance will be reduced from the wallet. Right now, as of April 21:st 2021, there is no way to withdraw hDAO from a specific NFT, but it's "on it's way".
