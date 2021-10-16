@@ -32,7 +32,7 @@ Generally you can use [Quipuswap](https://quipuswap.com/swap). Heres a guide for
 You can currently swap hDAO to Tezos and other coins at [Quipuswap](https://quipuswap.com/swap), an automated market-making decentralized exchange (DEX) on the Tezos blockchain. You can also earn a share of trading fees by [adding your hDAO to the liquidity pools](https://xtz.news/defi-news/quipuswap/decentralized-exchange-quipuswap-is-live-on-tezos/), although this comes with an element of risk.
 
 ## I'm a crypto geek. Where can I find out more?
-Here's the original [proposal](https://hicetnunc2000.medium.com/hicetnunc-microfunding-protocol-e270a63eb73c) and [discussion](https://forum.tezosagora.org/t/hicetnunc-microfunding-protocol/2318) for hDAO. You can also go to our discord to join the whale watchers in the #tezos channel or learn more in the #hdao-governance channel.
+Here's the original [proposal](https://hicetnunc2000.medium.com/hicetnunc-microfunding-protocol-e270a63eb73c) and [discussion](https://forum.tezosagora.org/t/hicetnunc-microfunding-protocol/2318) for hDAO. You can also go to our discord to join the #tezos channel or learn more in the #hdao-governance channel.
 
 ## What are those little circles on each post? hDAO? What is that?
 hDAO is a token that can be used to curate and promote NFTs, the hDAO feeds most curated works (hDAO balances). The current wallet hDAO balance is shown on each Hic et Nunc profile page.
