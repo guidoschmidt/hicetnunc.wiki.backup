@@ -41,7 +41,7 @@ When you curate an artwork, this promotes the NFT. You are sending a custom amou
 
 The creator of the NFT can choose to withdraw the hDAOs from their wallet, keep it, or use it to vote on other artworks. As the creator withdraws or spends hDAOs, the balance will be reduced from the curation feed, also impacting it's promoting power.
 
-The hDAOs appear in your profile, if there are hDAOs to be claimed such operation can be made on hover.
+hDAOs appear in your profile, there being hDAOs to be claimed such operation can be made on hover.
 
 Such effort intends to transfer trust along protocol users.
 
