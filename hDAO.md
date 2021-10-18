@@ -31,7 +31,7 @@ Generally you can use [Quipuswap](https://quipuswap.com/swap). Heres a guide for
 ## Can I convert my hDAO to another token, or use them for anything else?
 You can currently swap hDAO to Tezos and other coins at [Quipuswap](https://quipuswap.com/swap), an automated market-making decentralized exchange (DEX) on the Tezos blockchain. You can also earn a share of trading fees by [adding your hDAO to the liquidity pools](https://xtz.news/defi-news/quipuswap/decentralized-exchange-quipuswap-is-live-on-tezos/), although this comes with an element of risk.
 
-## I have some useful feedback for this feature. How can I add my input?
+## I have some useful feedback for how to make this feature better. How can I add my input?
 Here's the original [proposal](https://hicetnunc2000.medium.com/hicetnunc-microfunding-protocol-e270a63eb73c) and [discussion](https://community.hicetnunc.xyz/t/hdao-curation-discovery/20) for hDAO. 
 
 ## I'm a crypto geek. Where can I find out more?
