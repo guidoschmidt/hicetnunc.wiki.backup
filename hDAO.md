@@ -34,18 +34,8 @@ You can currently swap hDAO to Tezos and other coins at [Quipuswap](https://quip
 ## I'm a crypto geek. Where can I find out more?
 Here's the original [proposal](https://hicetnunc2000.medium.com/hicetnunc-microfunding-protocol-e270a63eb73c) and [discussion](https://community.hicetnunc.xyz/t/hdao-curation-discovery/20) for hDAO. You can also go to our discord to join the #tezos channel or learn more in the #hdao-governance channel.
 
-## What are those little circles on each post? hDAO? What is that?
-hDAO is a token that can be used to curate and promote NFTs, the hDAO feeds most curated works (hDAO balances). The current wallet hDAO balance is shown on each Hic et Nunc profile page.
-
-When you curate an artwork, this promotes the NFT. You are sending a custom amount of hDAO tokens to the hic et Nunc [hDAO-NFT wallet](https://tzkt.io/KT1TybhR7XraG75JFYKSrh7KnxukMBT5dor6/tokens), and the balance of hDAOs listed on the NFT is increased by this amount. This operation incurs a transaction cost of around 0.011ꜩ.
-
-The creator of the NFT can choose to withdraw the hDAOs from their wallet, keep it, or use it to vote on other artworks. As the creator withdraws or spends hDAOs, the balance will be reduced from the curation feed, also impacting it's promoting power.
-
-hDAOs appear in your profile, there being hDAOs to be claimed such operation can be made on hover.
-
-Such effort intends to transfer trust along protocol users.
-
-Under your account [configuration](https://hicetnunc.xyz/config) it's possible to determine how much hDAO it's gonna be used while curating as `advanced settings` where `1000000 μhDAO = 1 hDAO`.
+## how to change hDAO curation amount
+Under your account [configuration](https://hicetnunc.xyz/config) it's possible to determine how much hDAO is going to be used while curating as `advanced settings` where `1000000 μhDAO = 1 hDAO`. When you click save, the value is stored in your local session storage. This should not trigger a wallet transaction.
 
 ## Contract addresses
 
