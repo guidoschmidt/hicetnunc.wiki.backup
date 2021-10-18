@@ -39,9 +39,9 @@ hDAO is a token that can be used to curate and promote NFTs, the hDAO feeds most
 
 When you curate an artwork, this promotes the NFT. You are sending a custom amount of hDAO tokens to the hic et Nunc [hDAO-NFT wallet](https://tzkt.io/KT1TybhR7XraG75JFYKSrh7KnxukMBT5dor6/tokens), and the balance of hDAOs listed on the NFT is increased by this amount. This operation incurs a transaction cost of around 0.011ꜩ.
 
-The creator of the NFT can choose to withdraw the hDAOs from their wallet, keep it, or use it to vote on other artworks. As the creator withdraws or spends the hDAOs, the balance will be reduced from the wallet, also impacting it's promoting power.
+The creator of the NFT can choose to withdraw the hDAOs from their wallet, keep it, or use it to vote on other artworks. As the creator withdraws or spends hDAOs, the balance will be reduced from the curation feed, also impacting it's promoting power.
 
-The hDAOs appear in your profile and should also appear in your wallet.
+The hDAOs appear in your profile, if there are hDAOs to be claimed such operation can be made on hover.
 
 Such effort intends to transfer trust along protocol users.
 
