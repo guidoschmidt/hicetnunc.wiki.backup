@@ -45,7 +45,7 @@ The hDAOs appear in your profile and should also appear in your wallet.
 
 Such effort intends to transfer trust along protocol users.
 
-Visit the [hDAO feed](https://hicetnunc.xyz/hdao).
+Under your account [configuration](https://hicetnunc.xyz/config) it's possible to determine how much hDAO it's gonna be used while curating as `advanced settings` where `1000000 μhDAO = 1 hDAO`.
 
 ## Contract addresses
 
