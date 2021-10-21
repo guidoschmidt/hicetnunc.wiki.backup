@@ -5,6 +5,7 @@
 ***
 
 1. You should have already created a wallet (we recommend Temple or Kukai). Click on “Sync". Your browser will show a pop up asking you to sync with your wallet.
+
 ![sync button](https://i.ibb.co/25CWLk3/sync.png)
 ![Beacon wallet popup (choose your wallet)](https://i.ibb.co/T8PZVbN/beacon.png)
 2. Approve the sync in your wallet
