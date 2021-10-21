@@ -7,7 +7,7 @@
 
 1. Make sure you are synced.
 2. Press the burn button. In your wallet, the OBJKT should should up as being transferred to the burn wallet.
-3. If the burn button is not working, you can send the OBJKT to a burn wallet address directly from your Tezos wallet. The address is: `tz1burnburnburnburnburnburnburjAYjjX`. The burn address is an address nobody owns a key of. Transactions on the blockchain are irreversible, that's why you can't "delete" it, you can only send it to another wallet. 
+3. If the burn button is not working, you can send the OBJKT to a burn wallet address directly from your Tezos wallet. The address is: `tz1burnburnburnburnburnburnburjAYjjX`. The burn wallet is an wall that nobody owns a key of. Transactions on the blockchain are irreversible, that's why you can't "delete" it, you can only send it to another wallet. 
 
 ### **troubleshoot**
 **Important:** _You need to [cancel] the curation of this OBJKT so it can be available in your wallet when you are ready to burn it._
