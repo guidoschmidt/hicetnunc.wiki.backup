@@ -1,3 +1,6 @@
+## I received some tez, so i suppose I sold a work. But where do i see which OBJKT I sold?
+
+First of all, congratulations. You can use the following the track your recent sales: https://hicdex.com/sold
 ## Where can I see overall statistics for the site?
 https://hicdex.com/charts
 
@@ -45,7 +48,3 @@ You can also make a post on reddit in r/hicetnunc, or message the twitter and in
 
 ## Do you support multiple languages?
 Yes, we are actively working on supporting multiple languages. You can follow the development [here](https://github.com/hicetnunc2000/hicetnunc/issues/173)
-
-## I received some tez, so i suppose I sold a work. But where do i see which OBJKT I sold?
-
-First of all, congratulations. You can use the following the track your recent sales: https://hicdex.com/sold
