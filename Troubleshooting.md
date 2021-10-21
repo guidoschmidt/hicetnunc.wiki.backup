@@ -1,6 +1,15 @@
 ## My profile isn't loading
 
+## I just minted an OBJKT and its not showing in my assets
+## I just collected an OBJKT but its not showing in the collection
 ## The OBJKTs I burned are still showing up in my assets
+
+New mint not showing up, can’t swap Objkts, just collect an Objkt but not showing in the collection … etc. In fact, Hicetnunc is rarely down. All these problems are related to indexer lagging.
+If the indexer is lagging, the Hicetnunc website displays old data. So the collect fails (because the Objkt might have already been bought) and the swap doesn’t show up (exists in new data, not in the current data).
+
+If the transaction shows on your wallet just wait until the site catches up, usually about 24 hours.
+
+Read more here:
 https://medium.com/newyellow-crypto-notebook/is-hicetnunc-down-what-to-do-and-info-about-indexer-e2ae92c188be
 
 ## I found a bug. How do I report it?
