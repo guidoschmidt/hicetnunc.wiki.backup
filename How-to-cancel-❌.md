@@ -13,4 +13,4 @@ Let’s say I want set my OBJKTs as “not for sale”.
 If you want to delete your OBJKT, continue to [How to burn 🔥](https://github.com/hicetnunc2000/hicetnunc/wiki/How-to-burn-🔥)
 ***
 
-**Important:** _If you try to [swap] on OBJKTs that are currently for sale, your wallet will throw a warning saying that you have `insufficient funds`. This is because you already sent your OBJKTs out of your wallet in the first swap. You need to [cancel] to get the OBJKTs back in your wallet, and then you can [swap] them again._
+**Important:** _If you try to [swap] on OBJKTs that are currently for sale, your wallet will throw a warning saying that you have `insufficient funds`. This is because you already sent your OBJKTs to the escrow wallet in the first swap. You need to [cancel] to get the OBJKTs back in your wallet, and then you can [swap] them again._
