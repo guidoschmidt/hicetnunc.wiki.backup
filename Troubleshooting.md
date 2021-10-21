@@ -1,5 +1,4 @@
 ## My profile isn't loading
-
 ## I just minted an OBJKT and its not showing in my assets
 ## I just collected an OBJKT but its not showing in the collection
 ## The OBJKTs I burned are still showing up in my assets
@@ -11,6 +10,9 @@ If the transaction shows on your wallet just wait until the site catches up, usu
 
 Read more here:
 https://medium.com/newyellow-crypto-notebook/is-hicetnunc-down-what-to-do-and-info-about-indexer-e2ae92c188be
+
+## My OBJKT is stuck on "metadata on queue"
+Please try swapping your objkt. Metadata issue gets fixed when you swap
 
 ## I found a bug. How do I report it?
 Head over to the [github issues](https://github.com/hicetnunc2000/hicetnunc/issues) to see if the issue hasn't already been reported. If it hasn't, you can submit it.
