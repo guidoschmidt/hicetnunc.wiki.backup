@@ -1,7 +1,5 @@
 ### **burn**
 
-1: _(verb)_ to undergo alteration or destruction by the action of fire or heat
-
 2: _(verb)_ to "delete" your OBJKT
 
 
