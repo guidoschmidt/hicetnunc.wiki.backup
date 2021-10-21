@@ -2,7 +2,7 @@
 
 1: _(verb)_ to "delete" your OBJKT
 
-OBJKTs (like any other NFT), cannot be "deleted". Transactions on the blockchain are irreversible, that's why you can't "delete" it, you can only send it to another wallet. The "burn" button sends the OBJKT to the burn wallet for you, or you can send it yourself from your wallet to the "burn wallet". The burn wallet is an wallet that nobody owns a key of.
+OBJKTs cannot be "deleted". Transactions on the blockchain are irreversible, that's why you can't "delete" it, you can only send it to another wallet. The "burn" button sends the OBJKT to the burn wallet for you, or you can send it yourself from your wallet to the "burn wallet". The burn wallet is an wallet that nobody owns a key of.
 
 ***
 
