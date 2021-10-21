@@ -1,7 +1,6 @@
 ### **burn**
 
-1: _(verb)_ to "delete" your OBJKT
-
+1: _(verb)_ to "delete" your OBJKT from your assets page
 
 ***
 
