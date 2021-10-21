@@ -20,6 +20,10 @@ Try clearing browser's cache.
 ## Someone sent me an unsolicited OBJKT. What do I do?
 These are called "airdrops", and they are common in the crypto community. You can keep it or burn it.
 
+## Is there a way to tell how many hDAO have been assigned to an objkt in the curated list?
+Use this https://hicdex.com/objkt
+The hDAO is one of the parameters you will see in the list
+
 ## I found a bug. How do I report it?
 Head over to the [github issues](https://github.com/hicetnunc2000/hicetnunc/issues) to see if the issue hasn't already been reported. If it hasn't, you can submit it.
 
