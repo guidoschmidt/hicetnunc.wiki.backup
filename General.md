@@ -1,3 +1,6 @@
+## Where can I see overall statistics for the site?
+https://hicdex.com/charts
+
 ## I want to create my own gallery. How do I do it?
 This is currently being developed. We are not taking any pull requests at the moment to have a gallery featured but you will be able to make your own soon.
 
@@ -45,11 +48,4 @@ Yes, we are actively working on supporting multiple languages. You can follow th
 
 ## I received some tez, so i suppose I sold a work. But where do i see which OBJKT I sold?
 
-First of all, congratulations. 
-
-This is one method of seeing which work sold:
- 
-1. View your transactions on `www.tzkt.io/[input your wallet address here]`
-2. Click on the transaction and copy the operations hash. Example: ```ooBXHqeoSm6iju34S32gxTVLLHNJ39Xa9KCN4XSECqXS6xgF6UK```
-3. Paste the hash into ```https://better-call.dev/``` and search for it
-4. You will see the objktid listed on the right under the "swaps" section
+First of all, congratulations. You can use the following the track your recent sales: https://hicdex.com/sold
