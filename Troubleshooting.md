@@ -1,7 +1,7 @@
 ## My profile isn't loading
 
 ## The OBJKTs I burned are still showing up in my assets
-
+https://medium.com/newyellow-crypto-notebook/is-hicetnunc-down-what-to-do-and-info-about-indexer-e2ae92c188be
 
 ## I found a bug. How do I report it?
 Head over to the [github issues](https://github.com/hicetnunc2000/hicetnunc/issues) to see if the issue hasn't already been reported. If it hasn't, you can submit it.
