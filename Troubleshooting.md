@@ -17,6 +17,9 @@ Please try swapping your objkt. Metadata issue gets fixed when you swap
 ## I'm using Firefox and I get the white page whenever I try to visit HEN or objkt
 Try clearing browser's cache.
 
+## Someone sent me an unsolicited OBJKT. What do I do?
+These are called "airdrops", and they are common in the crypto community. You can keep it or burn it.
+
 ## I found a bug. How do I report it?
 Head over to the [github issues](https://github.com/hicetnunc2000/hicetnunc/issues) to see if the issue hasn't already been reported. If it hasn't, you can submit it.
 
