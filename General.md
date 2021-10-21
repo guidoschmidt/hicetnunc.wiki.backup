@@ -44,6 +44,8 @@ Our discord has the following promotion channels:
 
 You can also make a post on the telegram or reddit in r/hicetnunc, or can tag us in your posts on instagram and twitter.
 
+https://discord.gg/XNcuDQtezx
+
 https://t.me/hicetnunc2000
 
 reddit.com/r/hicetnunc
