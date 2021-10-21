@@ -9,6 +9,7 @@
 ![sync button](https://i.ibb.co/25CWLk3/sync.png)
 
 ![Beacon wallet popup (choose your wallet)](https://i.ibb.co/T8PZVbN/beacon.png)
+
 2. Approve the sync in your wallet
 3. Click the [OBJKTS (mint NFTs)] button in the hamburger drop down menu
 6. Fill out the information for your OBJKT. You can input the price of the OBJKT after the minting is complete. You can upload display images/gifs depending on the media type. The file size limit is currently 100mb.
