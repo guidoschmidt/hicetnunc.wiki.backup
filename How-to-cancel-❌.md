@@ -1,8 +1,6 @@
 ### **cancel**
 
-1: _(verb)_ to decide not to conduct or perform (something planned or expected) usually without expectation of conducting or performing it at a later time
-
-2: _(verb)_ to take your NFT off the market
+1: _(verb)_ to take your NFT off the market
 
 ***
 
