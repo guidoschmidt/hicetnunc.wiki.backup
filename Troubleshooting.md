@@ -1,5 +1,8 @@
 ## My profile isn't loading
 
+## The OBJKTs I burned are still showing up in my assets
+
+
 ## I found a bug. How do I report it?
 Head over to the [github issues](https://github.com/hicetnunc2000/hicetnunc/issues) to see if the issue hasn't already been reported. If it hasn't, you can submit it.
 
