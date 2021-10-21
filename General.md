@@ -1,6 +1,10 @@
 ## I received some tez, so i suppose I sold a work. But where do i see which OBJKT I sold?
 
 First of all, congratulations. You can use the following the track your recent sales: https://hicdex.com/sold
+
+## How do I get a notification when something sells?
+You can use the telegram bot that we have listed in the [Tools](https://github.com/hicetnunc2000/hicetnunc/wiki/Tools-made-by-the-community) section
+
 ## Where can I see overall statistics for the site?
 https://hicdex.com/charts
 
@@ -10,14 +14,8 @@ This is currently being developed. We are not taking any pull requests at the mo
 ## What video formats/codecs are supported?
 We recommend mp4, although you can mint webm, mov, and ogv. H.265 codec is not supported, we recommend H.264.
 
-## How do I get a notification when something sells?
-You can use the telegram bot that we have listed in the [Tools](https://github.com/hicetnunc2000/hicetnunc/wiki/Tools-made-by-the-community) section
-
-## How do I search for artists or filter by tags?
-This tool isn't implemented yet but the community has made some discovery tools that you can find in the [Tools](https://github.com/hicetnunc2000/hicetnunc/wiki/Tools-made-by-the-community) section
-
 ## I have an idea for a new feature or an improvement! Where can I submit it?
-You can submit your feature [here](https://hicetnunc.featureupvote.com/) and the community will be able to vote on it. Please only submit your feature if it is not already on the list. The official way to submit features to the developers is on the [github issues](https://github.com/hicetnunc2000/hicetnunc/issues). There is also the #feature-requests and #suggestions channel in the [Discord](https://discord.gg/Yx6UN5SkCd).
+The official way to submit features to the developers is on the [github issues](https://github.com/hicetnunc2000/hicetnunc/issues). There is also the #feature-requests and #suggestions channel in the [Discord](https://discord.gg/Yx6UN5SkCd).
 
 ## How do I add my name and avatar to my profile?
 Please see [Editing your profile](https://github.com/hicetnunc2000/hicetnunc/wiki/Edit-your-profile)
@@ -47,4 +45,4 @@ Our discord has the following promotion channels:
 You can also make a post on reddit in r/hicetnunc, or message the twitter and instagram and you can tag us in your posts.
 
 ## Do you support multiple languages?
-Yes, we are actively working on supporting multiple languages. You can follow the development [here](https://github.com/hicetnunc2000/hicetnunc/issues/173)
+This feature has not been released and development was abandoned. You can follow the development [here](https://github.com/hicetnunc2000/hicetnunc/issues/173)
