@@ -1,8 +1,6 @@
 ### **mint**
 
-1: _(noun)_ any of a family of aromatic plants with a square stem and a 4-lobed ovary which produces four one-seeded nutlets in fruit
-
-2: _(verb)_ to create an OBJKT (NFT)
+1: _(verb)_ to create an OBJKT (NFT)
 
 ***
 How to mint on https://www.hicetnunc.xyz/
