@@ -11,6 +11,7 @@
 
 ### **troubleshoot**
 **Important:** _You need to [cancel] the curation of this OBJKT so it can be available in your wallet when you are ready to burn it._
+**Important:** _If someone buys one of your editions, even if you burn the rest of them, the objkt won't disappear from your profile_
 ***
 **Hint:** _Transactions on the blockchain are irreversible, thats why you need to send it to another wallet. The burn address is an address nobody owns a key of._
 
