@@ -1,9 +1,9 @@
 ### **mint**
 
-1: _(verb)_ to create an OBJKT (NFT)
+1: _(verb)_ to create an OBJKT (NFT) on https://www.hicetnunc.xyz/
 
 ***
-How to mint on https://www.hicetnunc.xyz/
+
 1. Click on “Sync". Your browser will ask you to sync with your wallet.
 2. Approve the sync in your wallet
 3. Click the [OBJKTS (mint NFTs)] button in the drop down menu
