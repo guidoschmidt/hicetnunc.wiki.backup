@@ -42,7 +42,12 @@ Our discord has the following promotion channels:
 #external-promotion
 #share-your-nft
 
-You can also make a post on reddit in r/hicetnunc, or message the twitter and instagram and you can tag us in your posts.
+You can also make a post on the telegram or reddit in r/hicetnunc, or can tag us in your posts on instagram and twitter.
+
+https://t.me/hicetnunc2000
+reddit.com/r/hicetnunc
+https://twitter.com/hicetnunc2000
+https://www.instagram.com/hicetnunc2000
 
 ## Do you support multiple languages?
 This feature has not been released and development was abandoned. You can follow the development [here](https://github.com/hicetnunc2000/hicetnunc/issues/173)
