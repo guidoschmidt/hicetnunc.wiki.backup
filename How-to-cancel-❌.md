@@ -4,10 +4,10 @@
 
 ***
 
-Let’s say I want to raise my price, or set my OBJKTs as “not for sale”.
+Let’s say I want set my OBJKTs as “not for sale”.
 
 1. Make sure your wallet is synced
-2. Click on [collectors] and then [cancel]. This will send the OBJKTs back to your wallet. Check your wallet for confirmation.
+2. Click on [listings] and then [cancel]. This will send the OBJKTs back to your wallet. Check your wallet for confirmation. The objkts will be sent back from the escrow wallet to your wallet.
 3. Now that they are back in your wallet, you can [swap] them again.
 
 If you want to delete your OBJKT, continue to [How to burn 🔥](https://github.com/hicetnunc2000/hicetnunc/wiki/How-to-burn-🔥)
