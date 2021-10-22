@@ -1,5 +1,11 @@
 If you need to report a copyminter account, please state your case in the "report-abuse" channel in the Discord https://discord.gg/rJeAgCUPZR
 
+You can read below for more options
+
+
+***
+
+
 Due the constant presence of copyminters hicetnunc.xyz have been restricting reported accounts as those actions infringe our terms of services (read community guidelines WG 5.2). Restricted addresses get their OBJKTs frozen, not being able to trade through our UI, being only able to burn them through our UI.
 
 Reports can be made through our discord channel in the #report-copymint section, through e-mails or posting an issue in the following repository hicetnunc-reports 5. Contesting those restrictions can be made through these very same channels. It’s important to notice that accidents/human errors are possible at this stage and we apologize for such cases. We ask users to direct such issues exclusively through those channels. Also it’s important for the community to verify their social media channels whenever it’s possible.
