@@ -1,5 +1,7 @@
 If you need to report a copyminter account or report that your account has been accidentally flagged, please let us know in the "report-abuse" channel in the Discord https://discord.gg/rJeAgCUPZR
 
+It is important to note that we do not tolerate harassment of any kind and using the site to harass others will result in a ban of your account and your Discord account.
+
 You can read below for more options
 
 
