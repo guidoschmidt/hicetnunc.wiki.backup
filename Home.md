@@ -11,4 +11,4 @@ _(English)_
 
 **LINKS ARE IN SIDEBAR >>>>>>>**
 
-**AT THE BOTTOM ON MOBILE ↓↓↓↓↓↓↓↓↓↓**
+**AT THE BOTTOM ON MOBILE ↓↓↓↓↓↓↓↓**
