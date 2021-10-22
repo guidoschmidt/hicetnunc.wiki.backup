@@ -9,5 +9,6 @@ _(English)_
 
 ***
 
-LINKS ARE IN SIDEBAR >>>>>>>
-AT THE BOTTOM ON MOBILE ↓↓↓↓↓↓↓↓↓↓
+**LINKS ARE IN SIDEBAR >>>>>>>**
+
+**AT THE BOTTOM ON MOBILE ↓↓↓↓↓↓↓↓↓↓**
