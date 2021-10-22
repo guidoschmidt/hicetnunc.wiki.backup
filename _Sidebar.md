@@ -22,6 +22,7 @@
 * [Contributing](https://github.com/hicetnunc2000/hicetnunc/wiki/Contributing)
 * [Contributing (Beginner's Guide)](https://github.com/hicetnunc2000/hicetnunc/wiki/Contributing-Beginners-Guide)
 * [Beware Copyminters!](https://github.com/hicetnunc2000/hicetnunc/wiki/Beware-copyminters!)
+* [Reporting Abuse](https://github.com/hicetnunc2000/hicetnunc/wiki/Reporting-Abuse)
 
 **Misc**
 * [NFT Creators' Code of Conduct](https://github.com/hicetnunc2000/hicetnunc/wiki/NFT-Creators-Code-of-Conduct)
