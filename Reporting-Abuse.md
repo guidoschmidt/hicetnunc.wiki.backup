@@ -1,4 +1,4 @@
-If you need to report a copyminter account, please state your case in the "report-abuse" channel in the Discord https://discord.gg/rJeAgCUPZR
+If you need to report a copyminter account or report that your account has been accidentally flagged, please state your case in the "report-abuse" channel in the Discord https://discord.gg/rJeAgCUPZR
 
 You can read below for more options
 
