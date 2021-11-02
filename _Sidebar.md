@@ -29,3 +29,4 @@
 * [Tools Made By the Community](https://github.com/hicetnunc2000/hicetnunc/wiki/Tools-made-by-the-community)
 * [Essays & Blog posts](https://github.com/hicetnunc2000/hicetnunc/wiki/Essays-blogs)
 * [IPFS Pinning](https://github.com/hicetnunc2000/hicetnunc/wiki/IPFS-pinning)
+* [Roadmap & Manifesto](https://github.com/hicetnunc2000/hicetnunc/wiki/Roadmap-&-Manifesto)
