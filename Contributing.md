@@ -1,5 +1,3 @@
-Hi, welcome to hic et nunc repository. We're happy you're here.
-
 ## Learning Resources
 [Hic Et Nunc NFTs](https://leonnicholls.medium.com/hic-et-nunc-nfts-61743765b2ac?source=user_profile---------6----------------------------)
 
@@ -11,9 +9,13 @@ Hi, welcome to hic et nunc repository. We're happy you're here.
 
 [Hic Et Nunc Smart Contracts (Part 1)](https://leonnicholls.medium.com/hic-et-nunc-smart-contracts-part-1-e4ad5d0934b9)
 
-## Testing
+## PR
 
-We're currently implementing [Storybook](https://storybook.js.org/) which will be the ideal place where you can check how the components look. We're also currently implementing basic unit testing using [Jest](https://jestjs.io/).
+We take PRs on a case-by-case basis. Please contact us in the discord in the #dev channel to have your PR considered.
+
+You will need to create a feature branch from the `main` branch, write all your code there, and then when you submit your PR you submit it against the `main` branch.
+
+If anything else is new to you, don't feel intimidated, come and join us on Discord and we'll take the time to help.
 
 ## Components
 
@@ -24,7 +26,7 @@ In terms of standard its a good practice to first do global imports, then relati
 ```jsx
 import React from 'react' // a global import
 import { Button } from '../button' // a relative import
-import styles from './index.module.scss' // a sass import
+import styles from './styles.module.scss' // a sass import
 
 export const MyComponent = () => {
   return <div className={styles.container}>My Component</div>
@@ -33,19 +35,3 @@ export const MyComponent = () => {
 
 There are some auxiliary components that aren't doing much besides aiding with the layout. A good example of that is the `/src/pages/objkt-display` where you have `<Container/>` and `<Padding />`. These components are similar to what `reactstrap` provides, but we're trying to minimize our bundle size, so we're reducing on dependencies.
 
-## PR
-
-Pull requests should be as small as possible. At the moment there are a lot of eslint errors everywhere, and instead of fixing them all in one go (potentially breaking something and not being able to identify exactly what broke it), we're deciding to go page by page, component by component, fixing those warnings, removing unused code, etc.
-
-Because it's been a very small team contributing to this project, we've been mainly contributing directly into the `main` branch, but that won't happen anymore.
-
-We will be using a Git flow approach. This means that you will need to create a feature branch from the `develop` branch, write all your code there, and then when you submit your PR you submit it against the `develop` branch. Once the features on `develop` are tested and ready to push to production, an Admin will create a PR from `develop` to `main` and kick off a deployment.
-
-If Git flow is something new to you, don't feel intimidated, come and join us on Discord and we'll take the time to help.
-
-# How to Contribute to the Wiki?
-You can clone this repo if you'd like,
-
-`git clone https://github.com/hicetnunc2000/hicetnunc.wiki.git`
-
-however, since wikis do not have pull requests, you should make a new issue and put a label as "FAQ". Someone who is already contributor will review it and merge your changes. There is also a [template](https://github.com/hicetnunc2000/hicetnunc/blob/main/.github/ISSUE_TEMPLATE/faq_update.md)
