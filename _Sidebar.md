@@ -17,6 +17,7 @@
 * [General](https://github.com/hicetnunc2000/hicetnunc/wiki/General)
 * [Maintenance Fees](https://github.com/hicetnunc2000/hicetnunc/wiki/Maintenance-fees)
 * [Troubleshooting](https://github.com/hicetnunc2000/hicetnunc/wiki/Troubleshooting)
+* [OBJKT1SWAP](https://github.com/hicetnunc2000/hicetnunc/wiki/OBJKTV1SWAP-migration-to-v2)
 * [Features Not Yet Implemented](https://github.com/hicetnunc2000/hicetnunc/wiki/Features-not-yet-implemented)
 * [hDAO ○](https://github.com/hicetnunc2000/hicetnunc/wiki/hDAO)
 * [Contributing](https://github.com/hicetnunc2000/hicetnunc/wiki/Contributing)
