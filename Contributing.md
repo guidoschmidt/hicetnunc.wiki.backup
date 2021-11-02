@@ -1,7 +1,5 @@
 Hi, welcome to hic et nunc repository. We're happy you're here.
 
-We're trying to optimize the source code little by little, and it is only fair to write some notes on the thinking behind why we're making some of the decisions we're making. Writing this down will help you (the contributor) get comfortable with the source code.
-
 ## Learning Resources
 [Hic Et Nunc NFTs](https://leonnicholls.medium.com/hic-et-nunc-nfts-61743765b2ac?source=user_profile---------6----------------------------)
 
