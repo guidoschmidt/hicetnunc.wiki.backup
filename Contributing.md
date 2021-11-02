@@ -2,6 +2,13 @@ Hi, welcome to hic et nunc repository. We're happy you're here.
 
 We're trying to optimize the source code little by little, and it is only fair to write some notes on the thinking behind why we're making some of the decisions we're making. Writing this down will help you (the contributor) get comfortable with the source code.
 
+## Learning Resources
+[Hic Et Nunc NFTs](https://leonnicholls.medium.com/hic-et-nunc-nfts-61743765b2ac?source=user_profile---------6----------------------------)
+[Hicdex: the Hic Et Nunc indexer](https://leonnicholls.medium.com/hicdex-the-hic-et-nunc-indexer-bd45f27a228f)
+[Hic Et Nunc Metadata](https://leonnicholls.medium.com/hic-et-nunc-metadata-40e594530e31)
+[Minters for Hic Et Nunc](https://leonnicholls.medium.com/minters-for-hic-et-nunc-8b244b3d7ce0?source=user_profile---------1----------------------------)
+[Hic Et Nunc Smart Contracts (Part 1)](https://leonnicholls.medium.com/hic-et-nunc-smart-contracts-part-1-e4ad5d0934b9)
+
 ## Testing
 
 We're currently implementing [Storybook](https://storybook.js.org/) which will be the ideal place where you can check how the components look. We're also currently implementing basic unit testing using [Jest](https://jestjs.io/).
