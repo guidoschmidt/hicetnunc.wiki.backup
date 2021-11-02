@@ -1,4 +1,4 @@
-* https://leonnicholls.medium.com/hic-et-nunc-metadata-40e594530e31
+* Hicetnunc NFTs https://leonnicholls.medium.com/hic-et-nunc-metadata-40e594530e31
 * Inside Brazil’s DIY, eco-friendly NFT art marketplace https://restofworld.org/2021/inside-brazils-diy-nft-art-marketplace/
 * Hic Et Nunc — the story, facts, suppositions and ideas (June 2021) https://matheussiq8.medium.com/hic-et-nunc-the-story-facts-suppositions-and-ideas-june-2021-19927f9106ad
 * Hic Et Nunc AMA — The Good, the bad and the ugly https://matheussiq8.medium.com/hic-et-nunc-ama-the-good-the-bad-and-the-ugly-a241c922b2d2
